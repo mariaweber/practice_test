@@ -1,2 +1,3 @@
 ssh me@server.dirac.org "cd /data/run4 && tar -zcvf particles.dat.gz particles.dat"
 scp me@server.dirac.org:/data/run4/particles.dat.gz .
+# this is the end, there isn't any more
